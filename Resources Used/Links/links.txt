@@ -1,0 +1,9 @@
+Links
+
+https://stackoverflow.com/questions/36571560/directing-print-output-to-a-txt-file
+
+https://re-thought.com/pandas-value_counts/
+
+https://stackoverflow.com/questions/62203125/how-can-i-apply-a-function-to-each-row-in-a-pandas-dataframe
+
+https://cmdlinetips.com/2012/09/three-ways-to-write-text-to-a-file-in-python/
